@@ -12,7 +12,7 @@ Construction sites need live conditions data weather, location context without s
 
 - **Azure VM** running **Ubuntu**, **Apache**, **PHP**, and **MariaDB**
 - Integrated **OpenWeather** and **OpenStreetMap** APIs for real-time site data
-- Deployed and managed entirely solo — provisioning, configuration, and security all handled end-to-end
+- Deployed and managed entirely solo provisioning, configuration, and security all handled end-to-end
 
 ## Security
 
