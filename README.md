@@ -1,4 +1,4 @@
-# Construction Dashboard — Cloud Infrastructure Project
+# Construction Dashboard - Cloud Infrastructure Project
 
 A live site-monitoring dashboard for construction sites, built and deployed on Microsoft Azure, pulling real-time weather and location data via public APIs.
 
